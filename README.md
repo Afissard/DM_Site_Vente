@@ -1,8 +1,8 @@
 # DM : Site de vente :
-Wich est le nouveau site de vente Indien en ligne destiné à concurrencer Amazon et Alibaba.
+Wich est le nouveau site de vente Indien en ligne, il est destiné à un grand avenir : concurrencer Amazon et Alibaba.
 ## Articles :
 - Téléchargement de RAM
-- Services de maintenance et réparation en ligne VIP
+- Services de maintenance et réparation informatique en ligne VIP
 - Abonnement Nitflex et Spytifo
 # Roadmap :
 1. Ossature du site : minimum html/css
