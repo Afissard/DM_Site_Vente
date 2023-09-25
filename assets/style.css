@@ -15,14 +15,12 @@ thead{ /*BANNER*/
     background-color: #666;
 }
 
-tbody td:nth-child(1), tbody td:nth-child(3){ /* PUB*/
+tbody td:nth-child(1), tbody td:nth-child(3){ /*PUB*/
     background-color: #555;
-    width: 10%;
 }
 
 tbody td:nth-child(2){ /*MAIN*/
     background-color: #999;
-    width: 80%;
 }
 
 tfoot{ /*MENTION LEGAL & AUTRE*/
