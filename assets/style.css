@@ -3,31 +3,34 @@ html{
     font-family: 'Times New Roman', Times, serif;
 }
 
-table{
-    table-layout: fixed;
-    width: 100%;
-    border-collapse: collapse;
+.general_grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+}
+
+.banner {
+    grid-column: 1 / 5;
+    grid-row: 1;
 
     text-align: center;
 }
-
-thead{ /*BANNER*/
-    background-color: #666;
+.main {
+    grid-column: 2 / 4;
+    grid-row: 2 / 4;
 }
-
-tbody td:nth-child(1), tbody td:nth-child(3){ /*PUB*/
-    background-color: #555;
+.pub_left {
+    grid-column: 1;
+    grid-row: 2 / 4;
 }
-
-tbody td:nth-child(2){ /*MAIN*/
-    background-color: #999;
+.pub_right {
+    grid-column: 4;
+    grid-row: 2 / 4;
 }
+.legal_mention{
+    grid-column: 1 / 5;
+    grid-row: 4;
 
-tfoot{ /*MENTION LEGAL & AUTRE*/
-    background-color: #666;
-}
-
-/*TODO : Trouver un moyen d'ajuster les images*/
-image{
-    width: auto;
+    text-align: center;
 }

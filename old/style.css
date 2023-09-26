@@ -1,0 +1,33 @@
+html{
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table{
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+
+    text-align: center;
+}
+
+thead{ /*BANNER*/
+    background-color: #666;
+}
+
+tbody td:nth-child(1), tbody td:nth-child(3){ /*PUB*/
+    background-color: #555;
+}
+
+tbody td:nth-child(2){ /*MAIN*/
+    background-color: #999;
+}
+
+tfoot{ /*MENTION LEGAL & AUTRE*/
+    background-color: #666;
+}
+
+/*TODO : Trouver un moyen d'ajuster les images*/
+image{
+    width: auto;
+}
