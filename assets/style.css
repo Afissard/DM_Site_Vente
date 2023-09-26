@@ -28,3 +28,6 @@ tfoot{ /*MENTION LEGAL & AUTRE*/
 }
 
 /*TODO : Trouver un moyen d'ajuster les images*/
+image{
+    width: auto;
+}
