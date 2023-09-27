@@ -8,3 +8,4 @@ Wich est le nouveau site de vente Indien en ligne, il est destiné à un grand a
 1. Ossature du site : minimum html/css
 2. Definition DA : ajout d'images et css
 3. Finitions Bonus : interactivité avec du php (page de login, pannier) (voir cour de SIN)
+
