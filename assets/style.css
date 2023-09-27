@@ -5,7 +5,7 @@ html{
 
 .general_grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(4, 1fr); /*fr = fragments*/
     grid-gap: 10px;
     grid-auto-rows: minmax(100px, auto);
 }
