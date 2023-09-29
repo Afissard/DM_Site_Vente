@@ -1,5 +1,5 @@
 # DM : Site de vente :
-Wich est le nouveau site de vente Indien en ligne, il est destiné à un grand avenir : concurrencer Amazon et Alibaba.
+चाहना (Veux en Hindi) est le nouveau site de vente Indien en ligne, il est destiné à un grand avenir : concurrencer Amazon et Alibaba.
 ## Articles :
 - Téléchargement de RAM
 - Services de maintenance et réparation informatique en ligne VIP
